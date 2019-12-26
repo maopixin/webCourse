@@ -1,0 +1,10 @@
+{
+    "title": "前端教程",
+    "author": "Oliver",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    }
+}
